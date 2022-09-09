@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128514143913",
+    "project_id": "new-crewin",
+    "storage_bucket": "new-crewin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128514143913:android:3cbe03cab415ced51b5bb8",
+        "android_client_info": {
+          "package_name": "com.example.new_crewin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128514143913-7b3sf7ti3gotjkda24ej5s0ijsb2pv0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhKIZ56sh321ED4qmqCB6jOIghhK5Bpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128514143913-7b3sf7ti3gotjkda24ej5s0ijsb2pv0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
